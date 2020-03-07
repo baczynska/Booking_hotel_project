@@ -1,2 +1,2 @@
-# hotel_booking_demand_project
+# Booking_hotel_project
 Calculating the possibility the booking will be canceling
